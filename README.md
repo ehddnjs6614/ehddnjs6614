@@ -1,7 +1,7 @@
 # Hi there 👋
-### this is Kim Dong won gitHub !
+## this is Kim Dong won gitHub !
 
-## Stack
+### My Stack
 
 - Java
 - Spring
